@@ -1,4 +1,4 @@
-app :::::::::::::::
+
 import { useState } from "react";
 
 import seedOpportunities from "./data/seedOpportunities";
